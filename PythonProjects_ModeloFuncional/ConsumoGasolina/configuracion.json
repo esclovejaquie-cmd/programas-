@@ -1,0 +1,7 @@
+{
+    "unidad_distancia": "km",
+    "unidad_combustible": "litros",
+    "moneda": "MXN",
+    "titulo": "Calculadora de consumo de gasolina",
+    "version": "1.0"
+}

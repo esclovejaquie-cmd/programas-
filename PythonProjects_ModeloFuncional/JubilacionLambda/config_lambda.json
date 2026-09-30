@@ -1,0 +1,7 @@
+{
+    "nombre_aplicacion": "Calculadora de Jubilación con Lambda",
+    "moneda": "MXN",
+    "rendimiento_predeterminado": 6.0,
+    "edad_minima": 18,
+    "edad_maxima": 100
+}

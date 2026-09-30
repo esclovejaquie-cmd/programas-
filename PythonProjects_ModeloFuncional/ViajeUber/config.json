@@ -1,0 +1,26 @@
+{
+    "tiempo_espera_conductor": 5,
+    "numero_segmentos": 5,
+    "tipos_ruta": {
+        "🟢 Tráfico ligero": {
+            "velocidad_promedio": 55
+        },
+        "🟡 Tráfico moderado": {
+            "velocidad_promedio": 35
+        },
+        "🔴 Tráfico pesado": {
+            "velocidad_promedio": 20
+        }
+    },
+    "tipos_servicio": {
+        "UberX": {
+            "factor_tiempo": 1.0
+        },
+        "Uber Comfort": {
+            "factor_tiempo": 1.03
+        },
+        "Uber Black": {
+            "factor_tiempo": 1.05
+        }
+    }
+}

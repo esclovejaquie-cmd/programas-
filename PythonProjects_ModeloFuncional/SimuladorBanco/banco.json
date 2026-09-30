@@ -1,0 +1,37 @@
+{
+    "cuentas": [
+        {
+            "numero": "21073608",
+            "nombre": "Hannia",
+            "apellidos": "Macias Gómez",
+            "correo": "hanniamacias11@gmail.com",
+            "password": "cca79ceba90f2b7012ce8ab9d052b5864142d5e973138cafa28d94acc99dbc64",
+            "tipo": "Cuenta de débito",
+            "saldo": 1600.0,
+            "fecha_creacion": "25/09/2026 16:07:59"
+        }
+    ],
+    "movimientos": [
+        {
+            "cuenta": "21073608",
+            "tipo": "Depósito inicial",
+            "monto": 100.0,
+            "descripcion": "Apertura de cuenta",
+            "fecha": "25/09/2026 16:07:59"
+        },
+        {
+            "cuenta": "21073608",
+            "tipo": "Depósito",
+            "monto": 2000.0,
+            "descripcion": "Depósito realizado",
+            "fecha": "25/09/2026 16:09:02"
+        },
+        {
+            "cuenta": "21073608",
+            "tipo": "Retiro",
+            "monto": 500.0,
+            "descripcion": "Retiro realizado",
+            "fecha": "25/09/2026 16:09:11"
+        }
+    ]
+}
